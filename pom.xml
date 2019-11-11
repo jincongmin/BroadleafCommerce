@@ -362,6 +362,7 @@
         </plugins>
     </build>
     <modules>
+        <module>handler</module>
         <module>common</module>
         <module>core</module>
         <module>integration</module>
